@@ -37,25 +37,6 @@ Generated Password: A7dPzLxQ83mn
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/your-username/password-generator.git
-cd password-generator
-```
-
-### 2. Run the App
-
-```bash
-python password_generator.py
-```
-
-> Make sure you have Python 3.x installed.
-
----
-
 ## 📂 File Structure
 
 ```
@@ -74,21 +55,9 @@ password-generator/
 
 ---
 
-## 🧠 Future Ideas
-
-- [ ] GUI version with `tkinter`
-- [ ] Copy to clipboard feature
-- [ ] Save to file or password manager integration
-- [ ] Password strength meter
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** – feel free to use, modify, and share.
 
 ---
 
-## 🙌 Acknowledgments
-
-Created by [Arein Jain](https://github.com/your-username) for learning and fun 🎯
